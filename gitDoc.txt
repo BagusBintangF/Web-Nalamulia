@@ -2,3 +2,6 @@ How to trace graph
 
 alias graph="git log --all -decorate --oneline --graph"
 
+git branch  : show branch list
+git branch <file name > : create new branch
+git checkout <file name> : go to branch 
